@@ -8,4 +8,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![LinkedIn](https://www.linkedin.com/in/rakesh-kumar-87b69518b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-87b69518b)
